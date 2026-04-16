@@ -1,1 +1,16 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+xgboost
+shap
+imbalanced-learn
+optuna
+matplotlib
+seaborn
+plotly
+joblib
+pyarrow
+jupyter
+ipykernel
 
